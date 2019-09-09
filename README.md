@@ -1,2 +1,2 @@
-# gyakorlat-mongo-kiindulas
-Kiinduló kód a Mongo gyakorlathoz 
+# MongoDB gyakorlat kiinduló kód
+Kiinduló kód a MongoDB gyakorlathoz 
