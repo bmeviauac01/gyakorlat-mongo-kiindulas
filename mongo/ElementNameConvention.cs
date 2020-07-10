@@ -1,9 +1,9 @@
 ﻿using MongoDB.Bson.Serialization;
 using MongoDB.Bson.Serialization.Conventions;
 
-namespace Mongo
+namespace BME.DataDriven.Mongo
 {
-    public class AAFElementNameConvention : CamelCaseElementNameConvention, IMemberMapConvention
+    public class ElementNameConvention : CamelCaseElementNameConvention, IMemberMapConvention
     {
         void IMemberMapConvention.Apply(BsonMemberMap memberMap)
         {

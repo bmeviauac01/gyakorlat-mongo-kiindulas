@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mongo", "Mongo\Mongo.csproj", "{AAEFC9E0-5752-4F90-872F-084F8DBB50FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mongo", "mongo\mongo.csproj", "{AAEFC9E0-5752-4F90-872F-084F8DBB50FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
